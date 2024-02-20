@@ -1,6 +1,8 @@
 # ETworkshop2024
 This repository is dedicated to the hand-on session for the ET workshop 2024,  February 20-23th in Assisi. 
 
+Link to the presentation's slides https://www.canva.com/design/DAF8rdkhxRI/aWuIh7ckyOzVrdhOOzsMuQ/edit?utm_content=DAF8rdkhxRI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Download CLU file [https://drive.google.com/file/d/17Upu66MybHDa8QcKsIUtnWYsTKRuX1xY/view?usp=drive_link](https://drive.google.com/file/d/17Upu66MybHDa8QcKsIUtnWYsTKRuX1xY/view?usp=sharing)
 
 ## Prerequisites to run the notebook
